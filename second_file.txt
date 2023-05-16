@@ -1,5 +1,1 @@
 this is my second file
-
-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
-
-https://github.com/juko-jam/first_try_git.git
